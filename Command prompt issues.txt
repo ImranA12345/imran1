@@ -1,0 +1,19 @@
+when in prompt you want to change into a directory that has a name with 'space' within it, use the 'quote marks.
+
+e.g. to change into '0 Self' folcer, use CD "0 Self"
+
+--------------------------------------xxxxxxxxxxxxxxxxxxxx---------------------
+https://github.com/tstaunton/python_pandas/commits?author=tstaunton
+
+ctrl+shift+p to open a prompt in atom
+
+--------------------xxxxxxxxxx---------
+
+Open the Command Prompt with Administrative Privileges
+Click the Start icon and click in the Search box.
+Type cmd into the search box. You will see the cmd (Command Prompt) in the search window.
+Hover the mouse over the cmd program and right-click.
+Select "Run as administrator".
+
+----------xxxxxxxxxxxx---------------
+
